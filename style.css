@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Raleway:wght@300&display=swap'); /*2 fonts from https://fonts.google.com/specimen/Raleway?query=Raleway&subset=latin&noto.script=Latn*/
+
+ body{
+    font-family: 'Lato', sans-serif;
+}
+
+h1 h2 h3 h4 h5 h6{
+font-family: 'Raleway', sans-serif;
+}
+
